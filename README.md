@@ -1,10 +1,10 @@
-# rock_blaster
+# Rock Music Blaster
 
-A new Flutter project.
+Un Lecteur de Musique Rock et Hard Rock.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Ce projet est une application Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
